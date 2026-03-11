@@ -14,7 +14,7 @@
   {
     "id": 2,
     "correctIndex": 0,
-    "question": "",
+    "question": "https://github.com/codeWithNun/iqdata/raw/main/trangle.png",
     "options": ["9", "12", "15", "18"],
     "solution": {
       "text": "The sum of digits is constant.",
@@ -48,4 +48,5 @@
     }
   }
 ]
+
 
