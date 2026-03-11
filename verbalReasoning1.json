@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "correctIndex": 1,
+    "question": "यदि 'APPLE' लाई 'BQQMF' लेखिन्छ भने, 'ORANGE' लाई के लेखिन्छ?",
+    "options": ["PSBOHF", "PSBOGF", "QSBPGF", "PSCOHF"],
+    "solution": {
+        "text": "Each letter is shifted by +1 (A->B, P->Q, etc.).",
+        "nep_lang": "प्रत्येक अक्षरलाई +१ ले अगाडि सारिएको छ (A->B, P->Q, आदि)।",
+        "mediaType": "",
+        "mediaUrl": ""
+    }
+  },
+  {
+    "id": 2,
+    "correctIndex": 3,
+    "question": "समूहमा नमिल्ने पत्ता लगाउनुहोस्: 27, 64, 125, 144",
+    "options": ["27", "64", "125", "144"],
+    "solution": {
+        "text": "27, 64, and 125 are perfect cubes, while 144 is a perfect square.",
+        "nep_lang": "२७, ६४ र १२५ पूर्ण घन (Cube) संख्या हुन्, जबकि १४४ पूर्ण वर्ग (Square) संख्या हो।",
+        "mediaType": "",
+        "mediaUrl": ""
+    }
+  }
+]

@@ -1,0 +1,38 @@
+[
+  {
+    "id": 5,
+    "correctIndex": 1,
+    "question": "यदि 'CAT' लाई '3120' लेखिन्छ भने, 'DOG' लाई कसरी लेखिन्छ?",
+    "options": ["4156", "4157", "5168", "4147"],
+    "solution": {
+        "text": "The letters are replaced by their alphabetical positions (C=3, A=1, T=20).",
+        "nep_lang": "अक्षरहरूलाई तिनीहरूको वर्णमाला क्रम (Alphabetical Position) अनुसार राखिएको छ (D=4, O=15, G=7)।",
+        "mediaType": "image",
+        "mediaUrl": "SOLUTION/SOLU5.jpg"
+    }
+  },
+  {
+    "id": 6,
+    "correctIndex": 2,
+    "question": "Choose the word that is least like the others:",
+    "options": ["January", "March", "July", "September"],
+    "solution": {
+        "text": "September has 30 days, while others have 31 days.",
+        "nep_lang": "सेप्टेम्बरमा ३० दिन हुन्छन्, जबकि अन्य बाँकी महिनाहरूमा ३१ दिन हुन्छन्।",
+        "mediaType": "image",
+        "mediaUrl": "SOLUTION/SOLU6.jpg"
+    }
+  },
+  {
+    "id": 7,
+    "correctIndex": 0,
+    "question": "Find the missing number: 2, 6, 12, 20, 30, ?",
+    "options": ["42", "40", "44", "48"],
+    "solution": {
+        "text": "The pattern is adding consecutive even numbers (+4, +6, +8, +10, +12).",
+        "nep_lang": "पछिल्लो संख्यामा क्रमशः जोर संख्याहरू जोड्दै लगिएको छ (२+४=६, ६+६=१२, १२+८=२०, २०+१०=३०, ३०+१२=४२)।",
+        "mediaType": "image",
+        "mediaUrl": "SOLUTION/SOLU7.jpg"
+    }
+  }
+]
