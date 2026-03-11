@@ -8,7 +8,7 @@
         "text": "The letters are replaced by their alphabetical positions (C=3, A=1, T=20).",
         "nep_lang": "अक्षरहरूलाई तिनीहरूको वर्णमाला क्रम (Alphabetical Position) अनुसार राखिएको छ (D=4, O=15, G=7)।",
         "mediaType": "image",
-        "mediaUrl": "SOLUTION/SOLU5.jpg"
+        "mediaUrl": "https://github.com/codeWithNun/iqdata/blob/353ecb325384f2609cd3bacfa3d35dde7846f7ee/SOLU1.jpg"
     }
   },
   {
@@ -35,4 +35,5 @@
         "mediaUrl": "SOLUTION/SOLU7.jpg"
     }
   }
+
 ]
