@@ -6,9 +6,9 @@
     "options": ["50", "60", "80", "100"],
     "solution": {
       "text": "The pattern is (n * 2).",
-      "alt_lang": " (n * 2) को ढाँचा हो ।",
+      "alt_lang": "(n * 2) को ढाँचा हो ।",
       "mediaType": "image",
-      "mediaUrl": "SOLUTION/SOLU1.jpg"
+      "mediaUrl": "https://logplush123.github.io/apfSets/SOLUTION/SOLU1.jpg"
     }
   },
   {
@@ -20,7 +20,7 @@
       "text": "The sum of digits is constant.",
       "alt_lang": "",
       "mediaType": "video",
-      "mediaUrl": "<iframe width="560" height="315" src="https://www.youtube.com/embed/xNL3TBHNjzY?si=jVsqE5Kro0jA3cH1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>"
+      "mediaUrl": "https://www.youtube.com/embed/xNL3TBHNjzY"
     }
   },
   {
@@ -35,7 +35,4 @@
       "mediaUrl": "https://youtu.be/nspPVRqEw6g"
     }
   }
-
 ]
-
-
