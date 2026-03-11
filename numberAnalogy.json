@@ -14,7 +14,7 @@
   {
     "id": 2,
     "correctIndex": 0,
-    "question": "Which number replaces the question mark?",
+    "question": "",
     "options": ["9", "12", "15", "18"],
     "solution": {
       "text": "The sum of digits is constant.",
@@ -32,7 +32,20 @@
       "text": "The sum of digits is constant.",
       "alt_lang": "",
       "mediaType": "video",
+      "mediaUrl": "https://www.youtube.com/embed/xNL3TBHNjzY"
+    }
+  },
+  {
+    "id": 4,
+    "correctIndex": 0,
+    "question": "Which number replaces the question mark?",
+    "options": ["9", "12", "15", "18"],
+    "solution": {
+      "text": "The sum of digits is constant.",
+      "alt_lang": "",
+      "mediaType": "video",
       "mediaUrl": "https://youtu.be/nspPVRqEw6g"
     }
   }
 ]
+
